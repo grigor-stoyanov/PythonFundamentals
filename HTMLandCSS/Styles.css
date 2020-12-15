@@ -1,0 +1,9 @@
+margin,padding,border
+body{
+background:red
+margin:0;}
+#heading{font:25px; color: green;font-family:"Helvetica", sans-serif;}
+.yellow{color:yellow;border:1px solid black;}
+button{color:blue;text-transform:uppercase;background:black;border:none;padding:6px;border-radius:4px;letter-spacing:1px;}
+button:hover{background:white;color:black;cursor:pointer;}
+
